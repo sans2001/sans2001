@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sans2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sanskriti
+- 👀 I’m interested in Machine Learning and Web D
+- 🌱 I’m currently learning React js-nodejs
+- 💞️ I’m looking to collaborate on Projects of machine Learning
+- 📫 @jainsans1012@gmail.com
 
 <!---
 sans2001/sans2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
